@@ -6,7 +6,7 @@ body {
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
-  font-size: 2.7rem;
+  font-size: 2.6rem;
   margin-top:1rem ;
   color: #fff;
 }
@@ -69,6 +69,7 @@ body {
   }
   #level-title{
     text-align: center;
+    font-size:2rem;
     justify-content: center;
   }
 }
